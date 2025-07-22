@@ -2,6 +2,8 @@
 
 A modern web application for saving and organizing bookmarks with AI-generated summaries. Built with React, Tailwind CSS, Supabase, and Jina AI.
 
+## 🌐 Live Demo
+👉 [bookmarksaver12.netlify.app](https://bookmarksaver12.netlify.app)
 ## ✨ Features
 
 - **Secure Authentication**: Email/password sign-up and login via Supabase Auth
